@@ -1,7 +1,7 @@
 # hackerrank-env-java
 https://support.hackerrank.com/articles/6693750503-execution-environment  
-Commons Lang3@3.12.0 Commons  
-Logging@1.2  
+Commons Lang3@3.12.0  
+Commons Logging@1.2  
 Google/Gson@2.8.8  
 Guava@30.1-jre  
 Hamcrest@2.2  
