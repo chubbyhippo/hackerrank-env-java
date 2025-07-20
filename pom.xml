@@ -75,6 +75,12 @@
             <artifactId>httpcore5</artifactId>
             <version>5.0-beta8</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.openjfx/javafx-base -->
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-base</artifactId>
+            <version>17</version>
+        </dependency>
     </dependencies>
 
 </project>
