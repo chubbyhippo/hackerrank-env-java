@@ -113,6 +113,12 @@
             <version>7.4.0</version>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.xmlresolver/xmlresolver -->
+        <dependency>
+            <groupId>org.xmlresolver</groupId>
+            <artifactId>xmlresolver</artifactId>
+            <version>0.12.1</version>
+        </dependency>
     </dependencies>
 
 </project>
