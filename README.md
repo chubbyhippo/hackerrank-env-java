@@ -10,8 +10,7 @@ HTTPClient@4.5.13
 HTTPClient5@5.0-beta5  
 HTTPCore@4.4.15  
 HTTPCore5@5.0-beta8  
-JavaFX  
-Base@17-linux  
+JavaFX Base@17-linux  
 Jing@20091111  
 JSON  
 Simple@1.1.1  
