@@ -12,8 +12,7 @@ HTTPCore@4.4.15
 HTTPCore5@5.0-beta8  
 JavaFX Base@17-linux  
 Jing@20091111  
-JSON  
-Simple@1.1.1  
+JSON Simple@1.1.1  
 JUnit@4.13-beta-1  
 Tagsoup@1.2.1  
 TestNG@7.4.0  
